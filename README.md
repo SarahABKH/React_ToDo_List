@@ -2,6 +2,7 @@
 
 Welcome to my beginner's React to-do list project! This is a simple to-do list application built using React. If you're new to React, this project is a great way to get started and practice your skills.
 
+![Screenshot](screenshot.png)
 
 
 ## Features
