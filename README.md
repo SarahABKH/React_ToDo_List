@@ -18,11 +18,3 @@ Welcome to my beginner's React to-do list project! This is a simple to-do list a
 - CSS: Styles for the application.
 - HTML: The structure of the app.
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/beginner-react-todo-list.git
